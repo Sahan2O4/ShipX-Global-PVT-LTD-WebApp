@@ -28,13 +28,7 @@ The project features:
 
 ---
 
-## Deployment
 
-The live site is hosted at:
-
-[https://shipx.lk](https://shipx.lk)
-
-All production-ready files are in the `build` folder. To deploy manually:
 
 1. Run `npm run build` to generate the production build.
 2. Upload the contents of the `build` folder to your web host (`public_html` on cPanel).
