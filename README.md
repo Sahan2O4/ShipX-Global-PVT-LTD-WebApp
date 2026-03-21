@@ -40,6 +40,4 @@ All production-ready files are in the `build` folder. To deploy manually:
 2. Upload the contents of the `build` folder to your web host (`public_html` on cPanel).
 3. Ensure the `.htaccess` file exists for React routing support.
 
----
 
-## Folder Structure
